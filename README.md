@@ -73,9 +73,9 @@ Focused on **Agentic AI**, **Natural Language Processing**, and **Computer Visio
 
 ## 📊 GitHub Stats
  
-![Saptaparno's GitHub stats](https://github-readme-stats-gamma-five-23.vercel.app/api?username=Saptaparno&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&hide=makefile)
+![Saptaparno's GitHub stats](https://github-readme-stats-gamma-five-23.vercel.app/api?username=Saptaparno&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true)
  
-![Top Languages](https://github-readme-stats-gamma-five-23.vercel.app/api/top-langs/?username=Saptaparno&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-gamma-five-23.vercel.app/api/top-langs/?username=Saptaparno&layout=compact&theme=tokyonight&hide=makefile)
 ## ☕ Support My Work
 
 If my projects or open-source work have helped you, consider supporting me — it's genuinely appreciated and helps me keep building.
