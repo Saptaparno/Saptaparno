@@ -1,4 +1,10 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=200&section=header&text=Saptaparno%20Roy%20Sen&fontSize=50&fontColor=ffffff&desc=AI%20Engineer%20%26%20SaaS%20Developer&descSize=20&descAlignY=62&animation=fadeIn)
+
 # Hi, I'm Saptaparno Roy Sen 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+SaaS+Developer;Agentic+AI+%7C+NLP+%7C+Computer+Vision;Building+autonomous+intelligent+systems)](https://github.com/Saptaparno)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Saptaparno&color=58A6FF&style=flat&label=Profile+Views)
 
 🎯 AI Engineer & SaaS Developer — building at the intersection of technology, design, and real-world impact.
 
@@ -76,6 +82,9 @@ Focused on **Agentic AI**, **Natural Language Processing**, and **Computer Visio
 ![Saptaparno's GitHub stats](https://github-readme-stats-gamma-five-23.vercel.app/api?username=Saptaparno&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&v=2)
 
 ![Top Languages](https://github-readme-stats-gamma-five-23.vercel.app/api/top-langs/?username=Saptaparno&layout=compact&theme=tokyonight&langs_count=8&hide=makefile)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saptaparno&theme=tokyo-night&hide_border=true)
+
 ## ☕ Support My Work
 
 If my projects or open-source work have helped you, consider supporting me — it's genuinely appreciated and helps me keep building.
@@ -92,5 +101,7 @@ Pay using your preferred app:
 > 💡 The buttons open a UPI payment on mobile devices with a UPI app installed. On desktop, just copy the UPI ID above into your app.
 
 ---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:26D0CE,100:1A2980&height=120&section=footer)
 
 ⭐️ From [Saptaparno](https://github.com/Saptaparno)
