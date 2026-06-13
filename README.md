@@ -93,7 +93,10 @@ Focused on **Agentic AI**, **Natural Language Processing**, and **Computer Visio
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/Saptaparno/Saptaparno/output/snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Saptaparno/Saptaparno/output/snake.svg#gh-light-mode-only" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Saptaparno/Saptaparno/output/snake-dark.svg#gh-dark-mode-only" alt="Snake animation" width="100%" />
+</div>
 
 ## ☕ Support My Work
 
