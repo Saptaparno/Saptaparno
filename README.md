@@ -2,11 +2,11 @@
 
 ![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-</div>
-
-# Hi, I'm Saptaparno Roy Sen 👋
+<h1>Hi, I'm Saptaparno Roy Sen 👋</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+SaaS+Developer;Agentic+AI+%7C+NLP+%7C+Computer+Vision;Building+autonomous+intelligent+systems)](https://github.com/Saptaparno)
+
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Saptaparno&color=58A6FF&style=flat&label=Profile+Views)
 
