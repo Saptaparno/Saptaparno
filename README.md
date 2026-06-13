@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=200&section=header&text=Saptaparno%20Roy%20Sen&fontSize=50&fontColor=ffffff&desc=AI%20Engineer%20%26%20SaaS%20Developer&descSize=20&descAlignY=62&animation=fadeIn)
+<div align="center">
+
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+</div>
 
 # Hi, I'm Saptaparno Roy Sen 👋
 
@@ -81,9 +85,15 @@ Focused on **Agentic AI**, **Natural Language Processing**, and **Computer Visio
 
 ![Saptaparno's GitHub stats](https://github-readme-stats-gamma-five-23.vercel.app/api?username=Saptaparno&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&v=2)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Saptaparno&theme=tokyonight&hide_border=true)
+
 ![Top Languages](https://github-readme-stats-gamma-five-23.vercel.app/api/top-langs/?username=Saptaparno&layout=compact&theme=tokyonight&langs_count=8&hide=makefile)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saptaparno&theme=tokyo-night&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saptaparno&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Saptaparno/Saptaparno/output/snake.svg)
 
 ## ☕ Support My Work
 
@@ -102,6 +112,10 @@ Pay using your preferred app:
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:26D0CE,100:1A2980&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26D0CE,100:1A2980&height=120&section=footer" alt="footer" width="100%"/>
+
+<div align="center">
 
 ⭐️ From [Saptaparno](https://github.com/Saptaparno)
+
+</div>
