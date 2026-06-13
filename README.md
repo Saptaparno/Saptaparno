@@ -15,7 +15,7 @@ Focused on **Agentic AI**, **Natural Language Processing**, and **Computer Visio
 |---|---|---|
 | **Valura.Ai** (Dubai, Hybrid) | AI Engineer | Multi-agent architectures & orchestration layers for end-to-end UX (Python, FastAPI) — [app.valura.ai](https://app.valura.ai) |
 | **KnoWhy** (Remote) | AI/ML Solutions Architect | Leading tech team & AI architecture for SaaS education platform [app.knowhy.co.in](https://app.knowhy.co.in); backend LLM features |
-| **ADGION Technology** (Kolkata) | AI Engineer | AI chatbots & agentic workflows for CRM [crm.synqer.io](https://crm.synqer.io); agentic AI pipelines for healthcare app localdoctors.net |
+| **ADGION Technology** (Kolkata) | AI Engineer | AI chatbots & agentic workflows for CRM [crm.synqer.io](https://crm.synqer.io); agentic AI pipelines for healthcare app [localdoctors.net](https://localdoctors.net) |
 | **INKHUB Tattoos** (Ranchi) | AI Engineer | [brmh.ai](https://brmh.ai) — agent system generating end-to-end backends from NL prompts; LangChain RAG agents over BRD/LLD/HLD |
 | **IndieRise Research Labs** (Chennai) | Gen AI Engineer | SaaS for AI social posts (React + Express, GPT-4/DALL·E 3); shipped [theindierise.com](https://theindierise.com); SDXL Turbo & Flux.1 on Docker/GKE/GCP |
 
