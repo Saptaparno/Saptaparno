@@ -25,14 +25,16 @@
 </div>
 
 <details open>
-<summary><b style="font-size: 1.25em">🎯 About Me</b></summary>
+<summary><b style="font-size: 1.5em">🎯 About Me</b></summary>
 <br>
 
-<div style="font-size: 1.15em">
+<div style="font-size: 1.5em">
 
 🎯 AI Engineer & SaaS Developer — building at the intersection of technology, design, and real-world impact.
 
 Focused on **Agentic AI**, **Natural Language Processing**, and **Computer Vision** architectures to ship autonomous, intelligent systems.
+
+</div>
 
 ```js
 const profile = {
@@ -56,8 +58,6 @@ const profile = {
 - 🎓 B.S. Data Science & Applications, IIT Madras · B.Tech. Artificial Intelligence, Amity University Kolkata
 - 💬 Ask me about Agentic AI, RAG, NLP, Computer Vision, and full-stack SaaS
 - 📫 [LinkedIn](https://www.linkedin.com/in/saptaparno-roy-sen-8335a1210/) · roy.saptaparnos10@gmail.com
-
-</div>
 
 </details>
 
