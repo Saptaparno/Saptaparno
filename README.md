@@ -72,11 +72,10 @@ Focused on **Agentic AI**, **Natural Language Processing**, and **Computer Visio
 ![ComfyUI](https://img.shields.io/badge/ComfyUI-1A1A1A?style=flat)
 
 ## 📊 GitHub Stats
-
-![Saptaparno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saptaparno&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saptaparno&layout=compact&theme=tokyonight)
-
+ 
+![Saptaparno's GitHub stats](https://github-readme-stats-gamma-five-23.vercel.app/api?username=Saptaparno&show_icons=true&theme=tokyonight&count_private=true)
+ 
+![Top Languages](https://github-readme-stats-gamma-five-23.vercel.app/api/top-langs/?username=Saptaparno&layout=compact&theme=tokyonight)
 ## ☕ Support My Work
 
 If my projects or open-source work have helped you, consider supporting me — it's genuinely appreciated and helps me keep building.
