@@ -25,7 +25,7 @@
 </div>
 
 <details open>
-<summary><b style="font-size: 1.5em">🎯 About Me</b></summary>
+<summary><b style="font-size: 2.5em">🎯 About Me</b></summary>
 <br>
 
 <div style="font-size: 1.5em">
@@ -62,7 +62,7 @@ const profile = {
 </details>
 
 <details open>
-<summary><b>💼 Where I'm Building</b></summary>
+<summary><b style="font-size: 2.5em">💼 Where I'm Building</b></summary>
 <br>
 
 | Organisation | Role | What I'm building |
@@ -83,7 +83,7 @@ const profile = {
 </details>
 
 <details>
-<summary><b>🛠️ Tech Stack</b></summary>
+<summary><b style="font-size: 2.5em">🛠️ Tech Stack</b></summary>
 <br>
 
 <div align="center">
@@ -92,13 +92,17 @@ const profile = {
 
 </div>
 
-**AI / ML**
+<br>
+
+<h4>AI / ML</h4>
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Agno](https://img.shields.io/badge/Agno-000000?style=flat)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -106,7 +110,10 @@ const profile = {
 ![Anthropic](https://img.shields.io/badge/Anthropic-D4A27F?style=flat&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 
-**Languages**
+<br>
+
+<h4>Languages</h4>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -114,30 +121,43 @@ const profile = {
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**Frameworks & Backend**
+<br>
+
+<h4>Frameworks & Backend</h4>
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-**DevOps & Cloud**
+<br>
+
+<h4>DevOps & Cloud</h4>
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
 
-**Databases & Vector Stores**
+<br>
+
+<h4>Databases & Vector Stores</h4>
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FFB000?style=flat)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat)
 
-**Tools**
+<br>
+
+<h4>Tools</h4>
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
@@ -145,7 +165,7 @@ const profile = {
 
 </details>
 
-## 📊 GitHub Stats
+<h2 style="font-size: 2.5em">📊 GitHub Stats</h2>
 
 ![Saptaparno's GitHub stats](https://github-readme-stats-gamma-five-23.vercel.app/api?username=Saptaparno&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&v=2)
 
@@ -155,7 +175,7 @@ const profile = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saptaparno&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
 
-## 🐍 Contribution Snake
+<h2 style="font-size: 2.5em">🐍 Contribution Snake</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Saptaparno/Saptaparno/output/snake.svg#gh-light-mode-only" alt="Snake animation" width="100%" />
@@ -163,7 +183,7 @@ const profile = {
 </div>
 
 <details>
-<summary><b>☕ Support My Work</b></summary>
+<summary><b style="font-size: 2.5em">☕ Support My Work</b></summary>
 <br>
 
 If my projects or open-source work have helped you, consider supporting me — it's genuinely appreciated and helps me keep building.
